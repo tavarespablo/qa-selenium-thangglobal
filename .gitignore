@@ -1,0 +1,12 @@
+# Ignore ChromeDriver
+chromedriver*
+chromedriver-win64/
+drivers/
+
+# Ignore virtual environments
+venv/
+node_modules/
+
+# Ignore cache and reports
+*.log
+*.html
